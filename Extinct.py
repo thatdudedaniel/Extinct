@@ -1,10 +1,4 @@
-# _*_ coding:utf-8 _*_
-#version 1.0
-#ChangeLog
-#added logging with time/date stamp
-#version 1.0.0.1
-#added error logging 
-#minor reformating 
+
 
 #Imports
 import os
